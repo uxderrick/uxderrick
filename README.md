@@ -72,3 +72,5 @@
 </div>
 
 ###
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31brmkjqfw2h2sn6jaysbchh63vm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31brmkjqfw2h2sn6jaysbchh63vm&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)]]
