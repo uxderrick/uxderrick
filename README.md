@@ -12,7 +12,7 @@
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
 [![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai)
 
-> Deep in vibe-coding mode – 5+ years designing products, now shipping them in React and SwiftUI. When your Figma skills meet real code, things get interesting.
+> Started in Figma, ended up on the App Store. Still not sure how that happened, but I'm not stopping.
 
 🌐 **[uxderrick.com](https://uxderrick.com/)** – Portfolio & design work
 
