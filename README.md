@@ -30,8 +30,6 @@
 ## Agent Skills & Developer Tools
 
 - 🧠 **[MECE Skill](https://github.com/uxderrick/mece-skill)** - MECE validation and decomposition skill for AI agents. Works with Claude Code, Cursor, Copilot, Codex, Gemini CLI
-- ⚡ **[Everything Claude Code](https://ecc.tools)** - Agent harness performance optimization system. Skills, memory, security, and research-first development
-- ✍️ **[Humanizer](https://github.com/uxderrick/humanizer)** - Claude Code skill that removes signs of AI-generated writing from text
 
 ## Hardware & Kiosk
 
