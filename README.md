@@ -1,45 +1,51 @@
 # Hi, I'm Derrick 👋
 
-📍 **Accra, Ghana** | 🎨 **Product Designer → Builder** | 🎙️ **Edge Cases Podcast Co-host**
+📍 **Accra, Ghana** | 🛠️ **Designer turned Builder** | 🎙️ **Edge Cases Podcast Co-host**
 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com)
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
 [![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai)
 
-> Started in Figma, ended up on the App Store. Still not sure how that happened, but I'm not stopping.
+> Started in Figma, ended up on the App Store and in bank branches. Still not sure how that happened, but I'm not stopping.
 
-🌐 **[uxderrick.com](https://uxderrick.com/)** – Portfolio & design work
+🌐 **[uxderrick.com](https://uxderrick.com/)** - Portfolio & work
 
 ## Apps
 
-- 🪞 **[Mirror](https://mirror.uxderrick.com/)** – Virtual try-on for iOS; screenshot any outfit, see yourself wearing it in seconds ([App Store](https://apps.apple.com/us/app/fitting-room-mirror/id6757115117))
-- 🔔 **[Chime](https://usechime.app/)** – macOS menubar app that blocks your entire screen so you never miss a meeting again ([App Store](https://apps.apple.com/us/app/chime-remember-everything/id6753882399))
+- 🪞 **[Mirror](https://mirror.uxderrick.com/)** - Virtual try-on for iOS; screenshot any outfit, see yourself wearing it in seconds ([App Store](https://apps.apple.com/us/app/fitting-room-mirror/id6757115117))
+- 🔔 **[Chime](https://usechime.app/)** - macOS menubar app that blocks your entire screen so you never miss a meeting again ([App Store](https://apps.apple.com/us/app/chime-remember-everything/id6753882399))
 
 ## Current Projects
 
-- 🧩 **[Components.lol](https://chromewebstore.google.com/detail/jmdmoafjodgoahkdnchahnhfjjodhnef)** – Chrome extension that extracts design tokens and components from any website
-- 🎯 **[Create a Palette](https://www.figma.com/community/plugin/1413583705767096503/create-a-palette)** – Figma plugin for quick color palette generation
-- 🎙️ **[Edge Cases Podcast](https://tr.ee/ZmAlcUBZ-o)** – Design challenges, career growth, and the future of product design (12+ episodes)
-- 📝 **[CopyCopy](https://copy.uxderrick.com/)** – Writing tool for better copywriting and content creation workflows
-- 🖼️ **[BG Remover](https://bg-remover-dusky.vercel.app/)** – Background removal tool built to solve a common design workflow headache
-- 🌍 **[Designers Africa](https://designers.africa/)** – Community platform showcasing African designers and their work
-- 🎨 **[Colorless](https://colorless-ux.vercel.app/)** – Color accessibility and contrast checking tool
-- 📚 **[FontPear](https://font-pear.vercel.app/)** – Typography pairing tool that makes font selection intuitive
-- 💭 **[Quote Generator](https://quotegen-ux.vercel.app/)** – Quick inspirational quotes for design mockups and prototypes
+- 💰 **[PennyWatch](https://github.com/uxderrick/pennywatch-oss)** - Personal finance tracker that reads bank SMS, parses with AI, and gives spending insights via Telegram
+- 🧩 **[Components.lol](https://chromewebstore.google.com/detail/jmdmoafjodgoahkdnchahnhfjjodhnef)** - Chrome extension that extracts design tokens and components from any website
+- 🗺️ **[Mappd](https://github.com/uxderrick/mappd)** - See your entire React app at once. All screens rendered live on an infinite canvas with navigation flows
+- 🔔 **[ChimeAlert](https://github.com/uxderrick/ChimeAlert)** - ADHD-friendly, impossible-to-miss full-screen alert system for macOS. Extracted from Chime
+- 📄 **[DocStruct](https://github.com/uxderrick/docstruct)** - Document structure analysis tool
+- 🎙️ **[Edge Cases Podcast](https://tr.ee/ZmAlcUBZ-o)** - Design challenges, career growth, and the future of product design (12+ episodes)
+
+## Agent Skills & Developer Tools
+
+- 🧠 **[MECE Skill](https://github.com/uxderrick/mece-skill)** - MECE validation and decomposition skill for AI agents. Works with Claude Code, Cursor, Copilot, Codex, Gemini CLI
+- ⚡ **[Everything Claude Code](https://ecc.tools)** - Agent harness performance optimization system. Skills, memory, security, and research-first development
+- ✍️ **[Humanizer](https://github.com/uxderrick/humanizer)** - Claude Code skill that removes signs of AI-generated writing from text
+
+## Hardware & Kiosk
+
+- 🏧 **[Banking Kiosk Android](https://github.com/uxderrick/banking-kiosk-android)** - Android kiosk app for bank branch self-service
+- 🔗 **[Kiosk QR Bridge](https://github.com/uxderrick/kiosk-qr-bridge)** - Tiny bridge API connecting kiosk QR login to mobile app
+- 🖨️ **[Sunmi Print Bridge](https://github.com/uxderrick/sunmi-print-bridge)** - Headless companion APK for printing receipts on Sunmi V3H thermal printer via AIDL
 
 ## What I'm Doing
 
-- **Bridging design and code** – Turning years of UX thinking into functional React and SwiftUI apps
-- **Building design tools** – Solving problems I've hit myself as a product designer
-- **Growing communities** – Led Ghana's Figma Community for 2 years, spoke at Figma Config '22
-- **Mentoring designers** – Sharing what I know on [ADPlist](https://adplist.org)
-- **Vibe coding** – Using AI to ship faster and learn React + SwiftUI along the way
+- **Building operational fintech tools** - Queue management, compliance platforms, and teller workstations for banks in Ghana
+- **Shipping AI agent tooling** - Skills and frameworks for Claude Code, Cursor, and other AI coding agents
+- **Building design tools** - Solving problems I've hit myself as a product designer
+- **Growing communities** - Led Ghana's Figma Community for 2 years, spoke at Figma Config '22
+- **Mentoring designers** - Sharing what I know on [ADPlist](https://adplist.org)
 
 ## Connect
 
@@ -51,14 +57,4 @@
 
 ---
 
-### Philosophy
-
-> "Design is how it works" – I build tools to solve my own problems, then share them with the design community. Currently exploring how AI changes everything about how designers ship.
-
-### Random Facts
-
-- Two apps on the App Store and counting
-- Figma Config '22 speaker
-- Started designing in 2013, went product in 2021
-- Powered by Accra jollof and too many Figma files
-- Believes every designer should learn to code (at least a little)
+> "Design is how it works" - I build tools that solve real problems, then open-source the parts worth sharing.
