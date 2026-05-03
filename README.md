@@ -9,7 +9,7 @@
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
 [![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai)
 
-> Started in Figma, ended up on the App Store and in bank branches. Still not sure how that happened, but I'm not stopping.
+> Started in Figma, ended up on the App Store. Still not sure how that happened, but I'm not stopping.
 
 🌐 **[uxderrick.com](https://uxderrick.com/)** - Portfolio & work
 
