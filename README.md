@@ -34,12 +34,6 @@
 - 🎨 **[Colorless](https://github.com/uxderrick/colorless)** - Color tooling for design and interface work
 - ✍️ **[Marginalia](https://github.com/uxderrick/marginalia)** - Interface and annotation experiments
 
-## Hardware & Kiosk
-
-- 🏧 **[Banking Kiosk Android](https://github.com/uxderrick/banking-kiosk-android)** - Android kiosk app for bank branch self-service
-- 🔗 **[Kiosk QR Bridge](https://github.com/uxderrick/kiosk-qr-bridge)** - Tiny bridge API connecting kiosk QR login to mobile app
-- 🖨️ **[Sunmi Print Bridge](https://github.com/uxderrick/sunmi-print-bridge)** - Headless companion APK for printing receipts on Sunmi V3H thermal printer via AIDL
-
 ## What I'm Doing
 
 - **Designing healthcare and fintech tools** - Product work for essential medicine access, banking operations, and underserved markets
